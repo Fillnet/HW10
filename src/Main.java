@@ -28,8 +28,8 @@ public class Main {
         System.out.println("Ф.И.О. сорудника: " + fullName);
 
         System.out.println("Задание 2");
-        String upperFullName = fullName.toUpperCase();
-        System.out.println("Данные ФИО для сотрудника для заполнения отчета - " + upperFullName);
+//        String upperFullName = fullName.toUpperCase();
+        System.out.println("Данные ФИО для сотрудника для заполнения отчета - " + fullName.toUpperCase());
 
         System.out.println("Задание 3");
 //        fullName = fullName.replace("ё", "е");
