@@ -32,7 +32,7 @@ public class Main {
         System.out.println("Данные ФИО для сотрудника для заполнения отчета - " + upperFullName);
 
         System.out.println("Задание 3");
-        fullName = fullName.replace("ё", "е");
-        System.out.println("Данные ФИО сотрудника - " + fullName);
+//        fullName = fullName.replace("ё", "е");
+        System.out.println("Данные ФИО сотрудника - " + fullName.replace("ё", "е"));
     }
 }
